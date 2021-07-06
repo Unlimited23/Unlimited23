@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # About me ℹ️
-👨‍👩‍👦 Father & Husband 
-🧔💻 Full Stack Developer 
-🗺️ Traveller 
+👨‍👩‍👦 Father & Husband
+🧔💻 Full Stack Developer
+🗺️ Traveller
 ♟️ Chess Enthusiast 
 
 # What am I up to ✔️
-🏢 I’m currently working as a Full stack developer 
+🏢 I’m currently working as a Full stack developer
 👨‍🎓 I’m currently learning Laravel & Vue.js 
 
 # My Github Stats 📈
