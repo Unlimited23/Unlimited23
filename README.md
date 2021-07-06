@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 # About me ℹ️
 👨‍👩‍👦 Father & Husband  
-🧔💻 Full Stack Developer  
+💻 Full Stack Developer  
 🗺️ Traveller  
+👨‍🎓 Graduated student with Master's degree
 ♟️ Chess Enthusiast  
 
 # What am I up to ✔️
-🏢 I’m currently working as a Full stack developer  
-👨‍🎓 I’m currently learning Laravel & Vue.js  
+👨‍💻 I’m currently working as a Full stack developer  
+📙📗 I’m currently learning Laravel & Vue.js  
 
 # My Github Stats 📈
-![Unlimited23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unlimited23&show_icons=true&theme=dracula)
+![Unlimited23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unlimited23&show_icons=true&theme=vue-dark)
