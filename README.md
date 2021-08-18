@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 👨‍👩‍👦 Father & Husband  
 💻 Full Stack Developer  
 🗺️ Traveller  
-👨‍🎓 Graduated student with Master's degree  
+👨‍🎓 Graduated with Master's degree  
 ♟️ Chess Enthusiast  
 
 # What am I up to ✔️
